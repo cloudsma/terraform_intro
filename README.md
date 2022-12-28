@@ -1,4 +1,4 @@
-# terraform_intro
+# Terraform for IAC in AWS Cloud
 Introduction to Terraform.
 
 - EC2-default_VPC :- How to create an EC2 instance in default VPC using terraform.
